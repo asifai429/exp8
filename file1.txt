@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+iam gullapalli asif on file1.txt
+=======
+this is devopsa remote repo
+>>>>>>> ceec985a342fde7761e164402e5934e45ffbf7df
